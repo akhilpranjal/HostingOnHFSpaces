@@ -1,0 +1,3 @@
+fastai<2.8.0 #(As the procedure used for training the model has been deprecated in latest versions of fastAI)
+gradio
+pathlib
